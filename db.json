@@ -1,0 +1,16 @@
+[
+    {
+        "id": "182010",
+        "title": "Ochki",
+        "price": 1000,
+        "description": "Dlya zreniya",
+        "creation_date": "25.08.22 18:20"
+    },
+    {
+        "id": "182023",
+        "title": "Laptop",
+        "price": 10000,
+        "description": "Horowiy",
+        "creation_date": "25.08.22 18:20"
+    }
+]
